@@ -19,8 +19,8 @@ and discount behavior.
 - Sales amount was right-skewed — log transformation applied to improve
   distribution visualization
 
-
 ## Visualizations Used
+
 | Plot Type | Purpose |
 |-----------|---------|
 | Line plot | Monthly sales trends over time |
