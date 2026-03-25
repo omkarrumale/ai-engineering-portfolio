@@ -19,12 +19,15 @@ and discount behavior.
 - Sales amount was right-skewed — log transformation applied to improve
   distribution visualization
 
+
 ## Visualizations Used
-Line plot -- Monthly sales trends over time |
-Bar plot -- Category-wise and region-wise revenue comparison |
-Histogram (log transformed) -- Distribution of skewed sales data |
-Scatter plot -- Relationship between discount and sales amount |
-Box plot -- Median sales, spread, and outliers per category |
+| Plot Type | Purpose |
+|-----------|---------|
+| Line plot | Monthly sales trends over time |
+| Bar plot | Category-wise and region-wise revenue comparison |
+| Histogram (log transformed) | Distribution of skewed sales data |
+| Scatter plot | Relationship between discount and sales amount |
+| Box plot | Median sales, spread, and outliers per category |
 
 ## How to Run
 pip install -r requirements.txt
