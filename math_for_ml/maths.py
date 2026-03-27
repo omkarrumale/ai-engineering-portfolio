@@ -80,6 +80,7 @@ else:
 print(f"Eigenvalues are {eigenvalue}")
 max_idx = np.argmax(eigenvalue)
 print(f"Largest eigenvalue: {eigenvalue[max_idx]:.2f} — carries most information")
+
 # Dataset of 5 students, 3 features each:
 data = np.array([[85, 92, 78],
         [90, 88, 95],
