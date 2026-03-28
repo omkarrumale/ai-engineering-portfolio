@@ -19,6 +19,23 @@ and discount behavior.
 - Sales amount was right-skewed — log transformation applied to improve
   distribution visualization
 
+## Visualizations
+
+### Monthly Sales Trend
+![Monthly Sales Trend](assets/monthly_sales_trend.png)
+
+### Category vs Region Revenue
+![Category vs Region](assets/category_vs_region _revenue.png)
+
+### Discount vs Sales Amount
+![Discount vs Sales](assets/discount_vs_sales.png)
+
+### Sales Amount Distribution
+![Sales Distribution](assets/sales_distribution.png)
+
+### Sales by Category (Box Plot)
+![Box Plot](assets/sales_boxplot_category.png)
+
 ## Visualizations Used
 
 | Plot Type | Purpose |
