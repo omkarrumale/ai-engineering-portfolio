@@ -49,6 +49,7 @@ and discount behavior.
 ## How to Run
 pip install -r requirements.txt
 python src/clean_data.py
+jupyter notebook notebook/EDA.ipynb
 
 ## Project Structure
 Sales_analysis/
