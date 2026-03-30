@@ -1,3 +1,26 @@
+# AI Engineering Portfolio
+
+My structured journey toward becoming an AI Engineer.
+
+## Roadmap
+- ✅ P0: Data Analysis — Sales Analysis Project (Python, Pandas, Seaborn)
+- ✅ P1: Math for ML — Linear Algebra & Calculus (NumPy implementations)
+- ⏳ P2: Classical ML — Sklearn (coming soon)
+- ⏳ P3: Deep Learning — PyTorch (coming soon)
+- ⏳ P4: NLP & LLMs (coming soon)
+- ⏳ P5: MLOps & Deployment (coming soon)
+
+## Repository Structure
+ai-engineering-portfolio/
+├── data/
+├── notebook/
+├── math_for_ml/
+│   ├── linear_algebra_fundamentals.py
+│   └── calculus_fundamentals.py
+└── src/
+
+## P0: Sales Analysis Project
+
 # Sales Analysis Project
 
 ## Overview
