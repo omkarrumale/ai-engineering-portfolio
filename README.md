@@ -1,7 +1,7 @@
 # AI Engineering Portfolio
 
-2nd-year CS student. Building from mathematical foundations to 
-production-ready AI systems. Targeting AI engineering roles by 2027.
+3rd-year CS student. Building from mathematical foundations to 
+production-ready AI systems. Targeting AI engineering roles by 2028.
 
 ## Roadmap
 - ✅ P0: Data Analysis — Sales Analysis Project (Python, Pandas, Seaborn)
