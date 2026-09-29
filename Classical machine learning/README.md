@@ -1,6 +1,6 @@
 # California House Price Prediction using Linear Regression
 
-**R² Score: 0.705 | MAE: 37,576 | RMSE: 54,057**
+**R² Score: 0.711 | MAE: 37,977 | RMSE: 53,506**
 
 I used the California Housing dataset to predict `median_house_value` with Linear
 Regression, and learned the full regression workflow along the way.
