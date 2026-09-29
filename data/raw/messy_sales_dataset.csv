@@ -1,0 +1,516 @@
+date,category,region,channel,payment_method,units_sold,sales_amount,discount_pct,customer_rating
+14/01/2023,Sports,East,Wholesale,Cash,15,2969.58,22.0,2.9
+04-25-2022,Books,Central,Retail,PayPal,346,27694.24,28.0,3.8
+05/10/2023,Clothing,South,Direct,Credit Card,,2010.05,47.0,3.7
+06-06-2023,Furniture,South,Retail,Debit Card,95,19801.77,38.0,4.5
+21 Dec 2023,Food,South,Wholesale,Credit Card,384,114936.53,38.0,3.5
+20 Jul 2023,Sports,North,Retail,Bank Transfer,280,66535.13,43.0,
+02/01/2022,Books,Central,Retail,Credit Card,108,24216.98,1.0,3.8
+2023-08-03,,East,,Credit Card,451,101212.02,,1.4
+23 Feb 2023,Electronics,West,Wholesale,Credit Card,289,18470.96,,2.5
+13 May 2023,Electronics,South,Retail,Debit Card,41,6390.58,19.0,2.1
+11-04-2022,FOOD,Central,Online,Cash,331,21338.24,10.0,4.3
+2022-04-21,Furniture,West,Wholesale,,148,28847.05,23.0,2.9
+2022-08-19,Food,East,Online,Credit Card,191,50958.75,34.0,1.4
+2023-11-14,Electronics,East,Wholesale,Debit Card,63,7067.41,27.0,1.2
+2022-03-17,Books,East,Online,Bank Transfer,99,18920.35,9.0,3.7
+11-19-2022,Clothing,East,Direct,PayPal,4,673.17,41.0,3.9
+04-06-2022,Furniture,North,Retail,PayPal,385,108189.02,18.0,2.8
+2023-01-09,Sports,Central,Retail,Debit Card,380,64758.36,36.0,3.8
+26/08/2023,Books,West,Wholesale,Bank Transfer,218,,25.0,3.2
+08-27-2023,Electronics,,Retail,Credit Card,404,60313.55,20.0,3.7
+22/02/2022,Books,South,Online,Debit Card,477,142018.34,,3.8
+2023-09-17,Sports,East,Direct,Bank Transfer,208,22117.31,14.0,2.5
+08-30-2023,Furniture,West,Online,Debit Card,,,39.0,4.9
+25/11/2023,Clothing,,Retail,Debit Card,385,41329.24,,3.1
+12-19-2022,Food,West,Wholesale,Bank Transfer,150,,28.0,
+11-15-2023,Clothing,East,Direct,Cash,113,7444.21,42.0,2.7
+2022-05-31,Electronics,East,Retail,PayPal,7302,,45.0,3.2
+2023-03-12,Furniture,North,Direct,PayPal,195,54473.04,41.0,4.5
+14 Dec 2023,Sports,South,Wholesale,Bank Transfer,96,22789.88,24.0,
+07/09/2022,Electronics,South,Online,Debit Card,,113157.46,8.0,3.7
+13 Oct 2023,Books,South,Online,Credit Card,286,40699.98,,2.4
+21/02/2022,Clothing,North,Direct,Bank Transfer,472,69972.75,38.0,4.5
+2023-12-02,Clothing,North,Retail,Cash,346,51925.99,46.0,
+30/12/2022,Electronics,East,Wholesale,,22,2593.49,19.0,4.5
+05 May 2022,Electronics,East,,Credit Card,,59948.82,8.0,3.9
+2022-02-02,Books,North,Retail,Debit Card,189,35570.74,4.0,1.9
+2023-07-07,Books,Central,Wholesale,Bank Transfer,98,,35.0,1.3
+06/04/2022,Books,North,Wholesale,Cash,380,110920.15,6.0,3.7
+08-26-2022,Food,South,Wholesale,Credit Card,,16586.43,30.0,3.4
+06-19-2022,Books,East,Direct,PayPal,460,117399.07,23.0,2.5
+2022-04-29,Food,South,Direct,,214,,2.0,3.5
+13/04/2022,Electronics,West,Retail,Debit Card,152,11585.03,16.0,1.9
+17 Jun 2022,Food,North,Wholesale,PayPal,475,72598.28,5.0,
+28 Aug 2023,,North,Retail,Bank Transfer,72,16360.4,9.0,
+15 Aug 2022,Books,South,Retail,,304,33144.86,36.0,4.5
+07-31-2023,Books,West,Retail,Bank Transfer,349,46892.24,6.0,4.0
+13 Oct 2023,Books,South,Direct,PayPal,417,83601.76,,2.8
+2022-12-11,Clothing,,Wholesale,Credit Card,360,22569.17,28.0,1.2
+16/02/2022,Electronics,West,Retail,Cash,192,21612.07,,1.9
+2023-12-20,Electronics,Central,Direct,Bank Transfer,236,38778.64,9.0,1.5
+20 Jul 2023,Food,East,Direct,Debit Card,18,3293.36,24.0,1.4
+01-01-2024,Food,North,Direct,Bank Transfer,106,23425.04,8.0,2.0
+09-29-2022,Food,South,Wholesale,,450,102035.3,38.0,3.4
+09/06/2022,Electronics,East,Retail,PayPal,100 units,14919.6,14.0,2.4
+12 Dec 2022,Clothing,North,Direct,Cash,294,55478.95,45.0,1.5
+2022-07-08,Books,East,Retail,Bank Transfer,254,49796.67,44.0,
+10/02/2023,Books,Central,Direct,Bank Transfer,41,6995.84,17.0,1.1
+12-27-2022,Food,North,Online,Cash,403,103910.68,21.0,4.9
+19 Mar 2022,Clothing,West,Online,Debit Card,217,61663.16,49.0,2.3
+11 Jun 2022,Furniture,Central,Retail,Debit Card,62,17529.4,,4.4
+05-22-2023,Electronics,North,Online,Debit Card,,19689.75,41.0,2.8
+12/03/2022,Furniture,West,Wholesale,Credit Card,7397,41480.43,,1.0
+14 Feb 2022,Clothing,North,Retail,Cash,309,49322.13,46.0,5.0
+09-02-2023,Sports,,Direct,Credit Card,443,101719.14,34.0,2.6
+2022-07-10,Clothing,East,Retail,PayPal,139,25517.88,18.0,2.7
+2023-03-23,Books,West,Wholesale,Credit Card,441,40375.25,18.0,1.1
+2022-03-01,Food,East,Direct,Bank Transfer,129,14144.75,0.0,3.7
+2023-04-11,Sports,East,Online,PayPal,,11638.58,34.0,3.4
+01-14-2023,Books,South,Direct,PayPal,,31895.02,29.0,4.1
+12/10/2022,Clothing,East,Retail,Cash,226,29416.28,28.0,
+07 Aug 2022,Food,North,Retail,Cash,157,30164.42,,5.0
+17 May 2022,Sports,North,Retail,Bank Transfer,180,34608.67,21.0,4.0
+10 Jul 2023,Food,West,,Bank Transfer,54,12919.49,36.0,3.9
+2023-07-29,Books,,Wholesale,Cash,,95416.68,7.0,2.8
+30/09/2022,Sports,South,Online,Bank Transfer,33,5698.68,13.0,1.1
+02 Jun 2023,Books,North,Direct,Credit Card,431,67461.36,33.0,2.7
+28/12/2023,Clothing,East,Wholesale,Bank Transfer,233,57173.22,43.0,4.2
+02-14-2022,Sports,North,Direct,Credit Card,58,7725.83,8.0,3.9
+06 Jul 2022,Books,East,Retail,Cash,415,30325.15,24.0,3.1
+26 Feb 2023,ELECTRONICS,West,Wholesale,PayPal,453,32601.06,41.0,4.2
+2022-04-27,Furniture,,Online,Bank Transfer,,21216.78,46.0,2.6
+2022-10-26,Sports,Central,Wholesale,Cash,277,17425.76,17.0,
+2022-08-23,Sports,East,Online,Cash,,112749.27,6.0,4.7
+2022-10-26,Sports,Central,Wholesale,Cash,277,17425.76,17.0,
+2023-04-27,Books,South,Wholesale,Bank Transfer,372,,0.0,1.9
+18/12/2022,Food,Central,Direct,Credit Card,227,60544.8,18.0,1.5
+2023-07-24,Clothing,North,Wholesale,Credit Card,263,23471.28,49.0,1.1
+2023-01-23,,North,Retail,Cash,344,,11.0,2.6
+25/09/2022,FOOD,West,Wholesale,Bank Transfer,261,36207.56,15.0,4.6
+16/01/2022,Electronics,West,Wholesale,Bank Transfer,431,83307.0,36.0,3.2
+08-29-2022,Clothing,North,Wholesale,Credit Card,101,23384.55,5.0,4.5
+2022-07-06,Sports,South,Online,Debit Card,184,37594.13,,2.0
+16 Jul 2022,Furniture,East,Retail,Debit Card,190,40225.3,11.0,2.8
+09-06-2023,Furniture,Central,Wholesale,PayPal,264,66456.26,36.0,1.5
+14/03/2022,Books,,Direct,Bank Transfer,,55750.93,26.0,4.7
+03-01-2023,Food,South,Wholesale,Credit Card,469,128936.01,44.0,2.4
+2023-10-28,Food,South,Retail,Bank Transfer,470,,28.0,3.1
+03-19-2023,Clothing,East,Retail,Debit Card,38,3795.32,39.0,4.8
+12/07/2023,Sports,South,Wholesale,Bank Transfer,,20581.33,38.0,3.1
+24 May 2022,Books,Central,Wholesale,Bank Transfer,53,9222.5,21.0,4.0
+01-26-2022,Books,South,Online,,436,53986.67,32.0,4.8
+2022-01-29,,South,Direct,PayPal,86,,,4.2
+01/10/2022,FOOD,North,Retail,Credit Card,46,,38.0,1.4
+13/08/2022,Clothing,East,Wholesale,Credit Card,160,23069.56,44.0,2.0
+31/10/2022,Electronics,South,Direct,Bank Transfer,344,65520.54,6.0,1.3
+02/12/2022,Furniture,East,Wholesale,Cash,401,81010.81,20.0,2.3
+03-13-2022,Furniture,South,Direct,Bank Transfer,253,57796.74,2.0,4.6
+16 Nov 2022,Electronics,North,Online,Cash,252,34118.48,21.0,4.4
+07-11-2023,Sports,North,Retail,Debit Card,216,63409.4,3.0,4.0
+19 Jun 2022,ELECTRONICS,,Online,Credit Card,416,64535.72,11.0,2.4
+2023-11-24,Electronics,East,Wholesale,PayPal,107,9004.62,1.0,1.7
+10-19-2023,Food,South,Direct,Debit Card,265,,8.0,
+06 Jul 2023,Furniture,Central,Direct,Cash,323,44845.52,17.0,2.7
+2023-03-26,Electronics,Central,Online,PayPal,,68174.66,43.0,3.3
+2023-01-24,Electronics,West,Online,PayPal,301,70106.49,19.0,2.8
+28/01/2023,Sports,South,Wholesale,,116,25606.48,,2.6
+27 Apr 2022,Books,central,,Cash,497,127372.74,9.0,
+02/01/2023,Clothing,Central,Retail,PayPal,7873,66613.07,2.0,4.4
+09/12/2023,Furniture,South,Direct,,393,999330,2.0,1.3
+29/03/2022,Furniture,East,Online,Credit Card,144,7293.42,43.0,3.8
+06/04/2022,Electronics,Central,Retail,Bank Transfer,349,87209.61,46.0,3.5
+02 Nov 2022,Electronics,North,Wholesale,,161,25709.47,49.0,2.1
+13 Aug 2023,Electronics,East,Wholesale,PayPal,225,39271.79,22.0,1.7
+12 Nov 2023,Furniture,,Online,PayPal,225,33090.1,19.0,3.6
+10 Feb 2023,Clothing,East,Direct,Bank Transfer,446,50270.95,39.0,1.3
+04-14-2023,Electronics,,Online,Credit Card,135,9560.85,,2.5
+18 Jun 2023,SPORTS,South,Direct,PayPal,295,54158.04,33.0,
+28 Oct 2023,Books,South,Online,PayPal,467,94744.23,12.0,3.1
+11-15-2023,Electronics,Central,Online,Cash,99,6332.81,7.0,1.5
+14 Aug 2022,Books,West,Retail,Credit Card,215,15135.69,,1.9
+04-15-2022,Sports,East,Retail,,403,79065.19,,4.5
+20 Apr 2022,Clothing,,Online,Bank Transfer,374,110824.25,1.0,
+2023-05-02,Clothing,West,Direct,Credit Card,225,15904.6,31.0,1.9
+01/08/2023,Furniture,Central,Direct,Bank Transfer,187,12446.53,38.0,1.7
+21/02/2023,Food,West,Wholesale,Cash,462,47885.04,43.0,1.3
+13 Apr 2022,Sports,West,Direct,Credit Card,288,67785.19,36.0,3.4
+11-17-2023,Furniture,,Wholesale,PayPal,,141708.11,39.0,1.9
+2023-11-11,Furniture,South,,Debit Card,446,129195.32,19.0,2.4
+2022-06-23,Furniture,South,Online,Debit Card,359 units,42268.45,43.0,2.3
+2023-12-02,Clothing,North,Retail,Cash,346,51925.99,46.0,
+2022-09-16,Electronics,East,Online,Credit Card,325 units,75269.76,42.0,2.8
+27/02/2022,Sports,West,,Bank Transfer,,54968.23,25.0,1.3
+30 Apr 2023,Books,north,Online,Credit Card,323,800278,,4.5
+09-11-2023,Food,West,Wholesale,Credit Card,230,53834.21,25.0,1.1
+04-06-2023,Food,East,Wholesale,Debit Card,52,3579.67,28.0,1.2
+21 Feb 2022,Books,East,,Debit Card,136,,12.0,2.1
+08-11-2023,SPORTS,South,Wholesale,Cash,422,58563.5,14.0,4.5
+2023-09-27,Food,North,Direct,PayPal,289,83704.62,28.0,4.9
+2023-12-26,Electronics,East,Wholesale,Cash,202,,1.0,
+05 Nov 2023,Furniture,Central,Retail,Bank Transfer,49 units,3757.07,12.0,1.5
+09 Aug 2023,Sports,South,Wholesale,PayPal,223 units,41413.85,45.0,3.3
+06-04-2023,CLOTHING,South,Wholesale,PayPal,416,85706.56,13.0,1.9
+11-20-2023,Electronics,South,Retail,Debit Card,,117189.65,9.0,3.6
+2022-11-20,Books,West,Wholesale,PayPal,147,34898.4,23.0,3.3
+05/06/2022,Furniture,East,Retail,PayPal,153,,,4.2
+30 Mar 2023,Sports,South,Wholesale,PayPal,,18827.34,45.0,2.4
+2022-03-15,Books,East,Retail,PayPal,176,40607.43,30.0,2.4
+04 Aug 2022,Food,North,Retail,,121,19760.54,8.0,2.0
+04 Apr 2022,Furniture,North,Direct,Credit Card,97,,12.0,1.4
+2022-10-08,Food,North,Direct,Credit Card,,8386.93,7.0,3.6
+01-24-2023,,West,Wholesale,Cash,59,,7.0,4.2
+2023-07-18,Books,,Direct,PayPal,252,15068.74,20.0,3.0
+22 May 2023,Electronics,East,Online,PayPal,152,23227.69,13.0,1.8
+29 Dec 2022,Books,Central,Retail,PayPal,352,46662.22,46.0,2.9
+09 Dec 2023,Food,Central,Online,PayPal,60,11959.17,,9
+09-11-2022,Clothing,West,Retail,Cash,,59744.86,44.0,4.5
+23 Dec 2022,Electronics,North,Direct,,,53150.82,17.0,2.9
+07-07-2022,Books,South,,PayPal,280 units,62502.33,25.0,1.1
+2022-08-23,Sports,East,Online,Cash,,112749.27,6.0,4.7
+30/01/2023,Books,West,Retail,PayPal,134,,35.0,4.7
+01 Jul 2022,Food,West,Retail,Bank Transfer,52,7867.63,34.0,4.9
+25 Mar 2023,Food,Central,Retail,Bank Transfer,310,88651.6,25.0,3.2
+19/04/2023,Books,North,Retail,Bank Transfer,410,56204.5,27.0,1.1
+19 Jul 2023,Electronics,,Direct,Cash,398,77739.89,28.0,2.2
+03 Sep 2023,Furniture,East,Retail,Debit Card,45,10073.38,18.0,3.5
+22/03/2023,Sports,South,Retail,PayPal,53,7179.91,13.0,3.7
+2023-08-14,,Central,Retail,,264,,14.0,4.6
+2022-02-25,Books,Central,Wholesale,Cash,213,45567.23,23.0,4.5
+15/08/2023,Books,West,Retail,Credit Card,294,76361.61,26.0,1.6
+11-08-2022,Books,East,Direct,Credit Card,446,51284.41,29.0,1.2
+12 Jun 2022,Clothing,North,Online,PayPal,442,23610.75,25.0,5.0
+29/03/2022,Electronics,Central,Online,Cash,402,110514.56,,4.2
+2022-11-09,Sports,North,Online,Debit Card,163,856148,13.0,2.3
+29/04/2023,Furniture,East,Retail,,188,24261.24,4.0,1.8
+2023-11-28,Electronics,East,Online,PayPal,14,,27.0,
+02 Jun 2022,Food,east,Direct,Debit Card,256,49759.12,,4.3
+10-14-2022,,South,Direct,,99,17613.51,2.0,1.6
+11-18-2023,Food,South,Retail,Cash,253,73702.18,,2.1
+07/01/2022,SPORTS,South,Retail,Credit Card,459,95000.88,35.0,1.9
+2023-02-28,,East,Online,Cash,17,,12.0,1.7
+04 Feb 2023,Electronics,South,Wholesale,Debit Card,126,15994.98,20.0,
+04-11-2023,Food,Central,Online,Cash,345,38813.92,27.0,4.2
+08-18-2023,Books,West,Direct,PayPal,66,18465.41,22.0,1.7
+09-22-2022,Sports,North,Online,Credit Card,298,66139.96,34.0,3.7
+07-12-2022,Clothing,West,Wholesale,Credit Card,172,40676.9,17.0,3.7
+27/04/2023,Food,North,Online,Credit Card,237,25922.26,15.0,2.3
+12/09/2022,Food,Central,Direct,Bank Transfer,338,45682.78,28.0,4.0
+2022-10-11,,South,Retail,Bank Transfer,257,70154.38,27.0,1.3
+2023-07-18,Books,North,,PayPal,9360,15406.03,1.0,2.2
+06 Oct 2022,,South,Wholesale,Bank Transfer,22,2227.93,,4.1
+29 Sep 2022,Furniture,East,Online,PayPal,390,68351.39,46.0,4.9
+28 Nov 2023,Furniture,East,Retail,Credit Card,329,93322.0,3.0,3.3
+21 Aug 2023,Books,North,Wholesale,Credit Card,320,20655.49,39.0,
+24/02/2023,Electronics,Central,,Credit Card,342,102402.72,,1.9
+12 May 2022,Electronics,West,Direct,Cash,388,20884.54,14.0,2.1
+27 Dec 2023,FURNITURE,West,Retail,,28,,17.0,3.2
+26/08/2023,Furniture,North,Direct,PayPal,44,9648.85,10.0,4.9
+02-03-2023,ELECTRONICS,North,Wholesale,Credit Card,160,31598.24,39.0,2.8
+01 Dec 2022,Books,East,Wholesale,Debit Card,348,,1.0,4.6
+07-20-2023,Furniture,East,Wholesale,Cash,492,43670.12,44.0,
+04-10-2023,Food,West,,Bank Transfer,460,,,3.3
+07/10/2023,Books,West,Retail,PayPal,234,43967.89,49.0,
+26/12/2023,Food,North,Online,Debit Card,424,44928.0,8.0,4.7
+09-02-2022,Food,East,Online,Cash,231,50633.46,18.0,1.9
+25/12/2023,Electronics,Central,Wholesale,PayPal,2,237.37,37.0,1.8
+01/03/2022,Food,South,Direct,PayPal,81,5023.19,35.0,4.3
+22 May 2022,,North,Wholesale,Cash,7651,77885.21,11.0,3.4
+06-19-2023,Sports,,Retail,Cash,39,5314.56,1.0,3.0
+2023-04-04,Furniture,East,Direct,Credit Card,2,368.3,11.0,3.7
+23/05/2022,Sports,South,Direct,Cash,364,25559.44,24.0,3.7
+04/05/2022,Clothing,West,Retail,Bank Transfer,99,25849.91,15.0,4.5
+17/02/2022,Books,North,Online,Bank Transfer,165,46166.03,22.0,3.9
+06-03-2023,Clothing,East,Online,Credit Card,418,43130.07,,1.7
+16 Oct 2023,Electronics,West,Retail,Credit Card,456,61893.66,24.0,4.9
+24 Sep 2022,Electronics,South,Direct,PayPal,123,36299.23,25.0,3.6
+2023-07-13,ELECTRONICS,North,Wholesale,Bank Transfer,207,57323.15,23.0,2.6
+2022-09-15,Books,East,Direct,PayPal,462,48807.58,32.0,1.8
+03 Sep 2023,Furniture,South,Wholesale,,388,83139.8,7.0,4.2
+04-25-2023,Sports,North,Wholesale,Bank Transfer,470,79502.79,44.0,3.1
+16 Sep 2022,Electronics,North,Online,Debit Card,227,53164.68,25.0,4.5
+02-25-2022,Clothing,West,Direct,Debit Card,,13787.54,24.0,5.0
+02-13-2023,Sports,Central,Wholesale,Credit Card,13,2068.09,30.0,
+2023-09-03,Books,East,Wholesale,Bank Transfer,167,34997.8,,
+03-30-2022,Sports,South,Wholesale,Debit Card,476,66162.99,0.0,1.0
+12-25-2023,Electronics,,Retail,Debit Card,404,90593.11,29.0,
+19 May 2022,Sports,,Online,PayPal,203,55984.92,,4.9
+25/01/2022,Clothing,West,,PayPal,36,6555.33,13.0,1.1
+16/07/2022,Electronics,West,Retail,Cash,208 units,55495.18,7.0,4.7
+02-13-2023,Sports,East,Retail,Cash,260,53030.33,,3.5
+11/11/2022,Furniture,east,Retail,Bank Transfer,206,43763.34,45.0,1.6
+2023-09-05,,East,Direct,PayPal,158,35982.62,42.0,3.9
+07 Oct 2022,Furniture,West,Direct,Cash,172,12401.55,5.0,2.0
+02-12-2022,Food,Central,,Bank Transfer,42,9535.9,46.0,2.2
+2022-11-15,Clothing,east,Online,PayPal,37,9508.45,15.0,3.2
+03-20-2023,Sports,East,Online,Bank Transfer,489,143412.74,,1.5
+05-27-2022,Electronics,East,Direct,Debit Card,,4900.25,,1.9
+06 Aug 2022,Clothing,West,Retail,Debit Card,175,41301.87,12.0,3.0
+09-23-2023,Food,Central,Direct,PayPal,377,640164,36.0,
+03-12-2022,Sports,South,Online,Debit Card,352,53826.19,42.0,3.1
+30 Jan 2023,Food,South,Online,Bank Transfer,274,49093.69,36.0,
+01-04-2022,Furniture,South,Retail,Bank Transfer,5,433.26,31.0,3.3
+07 Mar 2022,Clothing,Central,Online,Bank Transfer,130,13234.9,33.0,3.5
+23/04/2022,Clothing,Central,Wholesale,Credit Card,135,9918.22,35.0,2.4
+2022-10-13,Clothing,east,Online,Cash,160,40084.37,47.0,2.6
+2022-06-15,Books,West,Retail,Cash,428,,45.0,4.3
+12-15-2022,Sports,Central,Wholesale,Bank Transfer,373,25265.24,23.0,4.1
+03-21-2022,Clothing,Central,Online,Debit Card,113,22180.47,10.0,2.9
+20 Jun 2022,Books,Central,Wholesale,Bank Transfer,,92187.53,16.0,2.8
+03-28-2023,Food,East,Wholesale,PayPal,340,57764.48,40.0,3.3
+10-18-2022,Food,West,Retail,Credit Card,198,,23.0,1.7
+23 Oct 2022,Electronics,Central,Retail,PayPal,,26851.86,43.0,3.2
+03-13-2022,Furniture,West,Retail,Cash,340,79653.56,,3.9
+10-13-2022,Furniture,West,Wholesale,Credit Card,327,96293.38,17.0,1.5
+27 Dec 2022,Books,East,,Bank Transfer,160,13909.56,48.0,3.7
+23/07/2023,Furniture,West,Direct,,,7966.48,29.0,3.7
+12 Apr 2023,Books,North,Direct,Debit Card,307,82633.77,,5.0
+2023-09-02,Clothing,Central,Direct,PayPal,499,86896.01,31.0,4.8
+05-16-2022,Books,East,Direct,PayPal,,9456.1,48.0,4.5
+11-19-2023,Food,South,Wholesale,Debit Card,,,0.0,
+14 Aug 2022,Books,West,Retail,Credit Card,215,15135.69,,1.9
+2023-02-18,Food,East,Wholesale,Debit Card,392,48768.25,28.0,3.6
+2023-08-04,Clothing,West,Direct,Cash,420,120660.3,22.0,4.3
+02/09/2022,Furniture,Central,Wholesale,PayPal,201,52365.09,35.0,3.5
+10-01-2023,Sports,South,Retail,Credit Card,286,79740.69,4.0,4.2
+2022-06-27,Furniture,North,Online,Debit Card,161,11587.48,7.0,2.8
+2022-04-04,Sports,Central,,Bank Transfer,307,33753.68,43.0,4.3
+16 Nov 2023,,West,Wholesale,,198,33662.28,33.0,3.1
+01 Dec 2022,Books,East,Wholesale,Debit Card,348,,1.0,4.6
+2023-07-21,Books,South,Direct,Debit Card,316,73473.11,48.0,7
+2022-08-23,Food,Central,Retail,Debit Card,51,11567.18,43.0,1.0
+05-10-2022,Clothing,West,Online,Bank Transfer,280,75504.04,3.0,1.1
+2023-03-02,Clothing,North,Retail,PayPal,343,21171.37,24.0,1.5
+20 Jun 2023,Food,West,Direct,PayPal,338,59001.93,20.0,1.5
+11-27-2023,,Central,Wholesale,Debit Card,243,31753.2,9.0,3.8
+17/07/2023,Clothing,East,Online,PayPal,2,566.72,20.0,3.5
+15 Feb 2023,Food,,Direct,PayPal,473 units,93007.82,31.0,2.3
+01/07/2023,Food,East,Direct,PayPal,49,4831.16,37.0,4.8
+16 Jun 2023,Clothing,West,Wholesale,Debit Card,27,7641.1,3.0,
+02-02-2022,Books,North,Online,Debit Card,484,123497.38,17.0,1.4
+2023-11-03,Food,West,Wholesale,Cash,315,53579.14,39.0,1.3
+11-10-2022,Food,East,Wholesale,PayPal,140,25594.3,48.0,3.8
+17/10/2023,Sports,Central,Direct,Cash,444,41661.66,22.0,4.5
+04-11-2023,Sports,,Retail,Cash,255 units,53336.08,27.0,4.1
+10/06/2022,Books,East,Retail,Credit Card,484,127148.92,47.0,2.6
+05-26-2023,Food,East,Retail,Cash,181,19715.05,24.0,4.3
+2023-10-30,Furniture,,Retail,Bank Transfer,395,71455.72,20.0,2.3
+25/09/2022,Books,East,Wholesale,Debit Card,284,,32.0,1.8
+22 Apr 2023,Books,East,Wholesale,Bank Transfer,461,,43.0,
+17 Dec 2023,Sports,South,Direct,,6,1689.67,28.0,
+04/05/2022,Books,north,Wholesale,Cash,477,136452.0,40.0,4.1
+03/07/2023,Furniture,west,Online,PayPal,304,17515.88,18.0,1.1
+12-05-2023,Books,East,Retail,Cash,,971940,45.0,3.7
+2023-04-15,Electronics,Central,Wholesale,Cash,328,65800.16,49.0,2.9
+2022-05-23,Books,east,Direct,Credit Card,271,651693,21.0,3.5
+2023-09-13,Furniture,North,Online,Debit Card,349,47761.82,33.0,3.9
+24 Jul 2022,FURNITURE,West,Direct,Debit Card,143,21457.97,3.0,3.1
+2023-11-03,Food,West,Wholesale,Cash,315,53579.14,39.0,1.3
+05 Apr 2022,Food,East,Online,PayPal,131,,22.0,3.0
+2023-03-25,Food,West,Direct,Credit Card,238,69495.65,36.0,4.3
+15/05/2023,Books,Central,Retail,Bank Transfer,53,15475.65,30.0,3.0
+28/09/2022,Clothing,West,Retail,PayPal,135,26189.95,17.0,2.5
+26/10/2023,Sports,north,Wholesale,Credit Card,128,37602.15,16.0,
+2023-11-11,Furniture,West,Retail,Cash,172,40292.53,28.0,1.1
+30/11/2023,Books,,Wholesale,Cash,,40502.53,32.0,4.1
+2022-08-27,Furniture,West,Direct,PayPal,103,15959.36,32.0,3.6
+23/11/2023,Sports,North,Wholesale,,81 units,11939.77,29.0,2.7
+14 Nov 2023,Electronics,South,Direct,PayPal,128,,41.0,1.3
+2023-02-20,Electronics,North,Direct,Bank Transfer,283,,,1.3
+08/09/2022,Furniture,East,Direct,Bank Transfer,349,45592.55,3.0,
+2023-05-23,ELECTRONICS,West,Retail,Debit Card,174,15952.79,23.0,1.4
+2022-11-18,Food,East,Retail,PayPal,,927389,31.0,
+2022-09-18,Clothing,East,Online,Bank Transfer,284,35109.07,28.0,1.2
+2023-12-20,Electronics,South,Wholesale,PayPal,,96073.54,45.0,3.2
+31/10/2022,Furniture,West,Online,Cash,54,12654.97,22.0,3.6
+22 Apr 2023,Food,South,Direct,PayPal,,20862.42,8.0,1.6
+2023-02-18,Furniture,South,Online,Cash,192,47725.89,29.0,2.7
+19 Oct 2023,Furniture,South,Online,PayPal,187,35343.24,6.0,3.3
+16/12/2023,Sports,North,Retail,Debit Card,113,12238.36,17.0,1.2
+17/03/2023,Sports,north,Wholesale,Bank Transfer,346,,7.0,
+12/09/2023,Furniture,west,Retail,Cash,449,116399.19,,1.5
+22 Oct 2022,Sports,West,,Bank Transfer,373,54013.07,45.0,3.3
+2022-07-24,,East,,PayPal,144,35872.98,39.0,2.7
+2022-08-27,Clothing,East,Online,Cash,,34851.14,25.0,3.1
+25/12/2022,Sports,West,Retail,Bank Transfer,198,54968.33,25.0,1.7
+21 Apr 2023,,North,Direct,Cash,473,38874.5,42.0,3.6
+08-17-2023,Sports,South,Wholesale,Debit Card,116,6737.16,33.0,1.6
+2022-05-05,Electronics,West,,Credit Card,,22809.51,48.0,
+12-10-2022,Sports,North,Wholesale,Debit Card,113,27037.54,,4.6
+2023-02-03,Food,South,Direct,Bank Transfer,224,12442.35,11.0,4.6
+10/12/2023,Electronics,East,Direct,Credit Card,254,,43.0,1.7
+15 Dec 2023,Sports,Central,Wholesale,Debit Card,172,15687.87,16.0,
+2022-12-11,,West,Wholesale,Cash,434,57515.8,39.0,4.5
+2023-09-19,Food,East,Online,Cash,293,87601.96,0.0,3.5
+02-02-2022,Furniture,Central,Wholesale,PayPal,464,106093.03,45.0,
+16/09/2023,Food,West,Online,Bank Transfer,345 units,89874.49,39.0,4.6
+04/10/2023,Electronics,West,Wholesale,PayPal,386,91666.39,22.0,2.8
+2022-11-28,Furniture,West,Wholesale,Credit Card,35,7053.39,33.0,2.1
+22 Dec 2022,Clothing,North,Wholesale,Debit Card,147,13967.47,18.0,2.1
+30 Sep 2023,Food,South,Direct,Debit Card,220,33468.51,31.0,1.7
+07 Dec 2023,Food,,Retail,Debit Card,398,103710.25,28.0,1.9
+28/09/2023,,South,Wholesale,PayPal,231,36639.59,7.0,1.4
+08/08/2022,Sports,,Wholesale,Cash,304,,26.0,1.3
+04-30-2023,Furniture,north,,PayPal,453,104248.44,16.0,4.4
+21/07/2023,,Central,Wholesale,Debit Card,475,138777.42,31.0,4.2
+2022-12-13,ELECTRONICS,West,Online,Credit Card,402,84058.56,24.0,4.0
+12-15-2023,Food,North,,Bank Transfer,473,63341.8,,3.2
+25 Feb 2023,Clothing,West,Retail,PayPal,296,39705.01,5.0,1.2
+2022-05-11,Furniture,Central,Wholesale,Bank Transfer,247,,44.0,
+01/05/2022,Electronics,East,Direct,Bank Transfer,302,29173.58,29.0,3.4
+07 Dec 2023,Food,,Retail,Debit Card,398,103710.25,28.0,1.9
+29 Mar 2022,Furniture,North,Direct,Cash,50,13583.5,0.0,
+06/09/2023,Furniture,North,,PayPal,191,31130.55,48.0,
+05-11-2023,Electronics,East,Direct,Credit Card,131,18148.3,30.0,3.8
+06-06-2022,Food,Central,Retail,Cash,455,24702.08,0.0,1.1
+17/03/2022,Clothing,South,Retail,Debit Card,268,50498.1,1.0,4.9
+27/09/2022,Electronics,South,Online,Credit Card,340,25003.34,40.0,4.0
+07/08/2023,Sports,North,,Bank Transfer,,12224.38,48.0,2.6
+23 Aug 2023,Sports,East,Direct,PayPal,277,54976.4,21.0,4.7
+06-17-2022,Books,West,,Cash,259,26491.22,46.0,3.7
+12-20-2022,Sports,Central,,Debit Card,62,4269.24,47.0,3.8
+08-27-2023,Furniture,Central,Wholesale,Debit Card,331 units,16979.05,46.0,1.7
+09/03/2022,Books,Central,Online,Cash,190,,11.0,2.0
+31/01/2023,Food,East,Retail,Bank Transfer,360,80434.58,48.0,1.9
+10-06-2022,Electronics,north,Direct,Debit Card,9889,7770.26,9.0,2.9
+10-06-2023,Electronics,Central,Online,PayPal,414,122320.53,1.0,3.8
+14/03/2022,Sports,Central,Retail,Bank Transfer,,107467.81,34.0,2.9
+05 Apr 2022,Books,West,Wholesale,Bank Transfer,152,41291.45,7.0,4.9
+07/04/2023,Furniture,South,Online,Cash,441 units,120637.45,24.0,
+2023-11-18,Books,west,Direct,Bank Transfer,,44993.81,,2.1
+06/01/2023,Clothing,Central,Retail,Cash,131,36523.25,42.0,
+2022-06-10,Clothing,North,Retail,Cash,68,,49.0,2.0
+01/10/2022,Clothing,Central,,Credit Card,485,,31.0,3.8
+02/03/2022,Furniture,South,Direct,Cash,15,2909.72,48.0,2.7
+10-03-2023,Food,West,Direct,,367,108220.09,10.0,4.5
+13 Oct 2022,Electronics,Central,Retail,Bank Transfer,351,89542.46,33.0,3.8
+04-14-2023,Electronics,,Online,Credit Card,135,9560.85,,2.5
+11-09-2023,Food,East,Direct,Debit Card,148,33170.55,34.0,1.2
+04-22-2023,Books,Central,Retail,Bank Transfer,326,20037.69,39.0,1.7
+29 Jun 2022,Electronics,East,Retail,Cash,283,49956.85,48.0,2.0
+13 Apr 2022,Furniture,Central,Wholesale,PayPal,114,19819.57,,3.6
+15 Jun 2022,Food,West,Direct,PayPal,255,27618.29,,4.2
+2023-07-08,Food,North,Retail,,440,,20.0,2.7
+28 Aug 2022,,Central,Wholesale,Cash,54,8525.63,14.0,1.7
+24 Oct 2023,Furniture,West,Wholesale,PayPal,369,109432.21,33.0,
+10-05-2022,Food,,Direct,Credit Card,9,749.51,46.0,3.0
+29 Dec 2022,FOOD,North,Online,Credit Card,190,38867.06,6.0,3.5
+05/08/2022,Sports,Central,Direct,Debit Card,54,9981.6,8.0,3.5
+26/01/2022,Books,South,Direct,Credit Card,96,,31.0,
+2023-05-17,Sports,Central,Direct,Credit Card,308,55073.18,,1.2
+12-08-2022,Clothing,South,Retail,Bank Transfer,367,68713.59,32.0,2.0
+11-30-2023,Furniture,South,Wholesale,Cash,242,46345.25,30.0,3.8
+19/08/2022,Furniture,West,Direct,Debit Card,137,21119.89,29.0,3.0
+18/10/2023,Clothing,North,Direct,Cash,170,14380.01,22.0,3.6
+12/03/2022,Books,West,Retail,Credit Card,48,11775.55,49.0,4.1
+2022-12-14,Sports,East,Online,Credit Card,237,52235.61,48.0,4.9
+03-12-2023,Food,East,Direct,Cash,9413,2426.66,9.0,4.8
+2023-01-27,Electronics,West,Wholesale,Credit Card,231,50880.03,42.0,6
+2022-03-16,Furniture,North,Direct,Cash,201,,46.0,4.5
+13/07/2022,Books,Central,Retail,Cash,6379,,0.0,2.8
+18 Dec 2023,Books,Central,Direct,,375,97367.11,33.0,
+05-14-2022,Books,East,Wholesale,Bank Transfer,218,38876.28,49.0,2.1
+01/02/2022,Books,Central,Direct,Credit Card,240,53858.51,10.0,4.3
+22/03/2023,Furniture,East,Direct,,128,32697.3,25.0,2.3
+25 Aug 2022,ELECTRONICS,South,Direct,PayPal,,18935.87,35.0,3.4
+01/08/2022,Clothing,Central,Direct,,445,62895.95,6.0,2.6
+22/05/2022,Clothing,East,Retail,PayPal,81,8931.97,41.0,2.1
+27 Mar 2022,Food,Central,Retail,Bank Transfer,439,110303.65,9.0,2.6
+14 Jul 2022,Books,West,Direct,Credit Card,367,42268.72,42.0,1.5
+12-20-2022,Electronics,Central,Online,PayPal,128,18927.43,36.0,3.7
+2022-11-06,Books,Central,Wholesale,Cash,161,,15.0,3.6
+05-18-2022,Electronics,East,Online,Debit Card,360,67132.42,38.0,4.7
+03-06-2023,Clothing,Central,Online,Credit Card,379,99216.81,29.0,2.6
+04 Mar 2022,Clothing,South,Wholesale,Debit Card,208,30440.62,32.0,4.9
+11/02/2023,Electronics,west,,Debit Card,443,,4.0,4.2
+02-15-2023,Sports,West,Direct,Cash,271,16332.32,42.0,2.5
+22 Dec 2022,Clothing,North,Wholesale,Debit Card,147,13967.47,18.0,2.1
+02 Mar 2023,Books,South,Direct,Bank Transfer,99,27419.69,19.0,1.9
+07-29-2023,,East,Direct,Bank Transfer,55,949847,32.0,1.3
+16 Dec 2023,Electronics,Central,Retail,Credit Card,88,8674.03,44.0,8
+04-12-2023,Books,West,Wholesale,Debit Card,,18729.99,47.0,3.5
+12 Oct 2022,Sports,Central,Wholesale,Debit Card,280,20370.15,1.0,4.9
+2023-04-10,,North,Online,,386,28158.61,39.0,3.5
+06/04/2022,Clothing,north,Online,PayPal,456,31486.84,16.0,4.2
+18 Mar 2022,Clothing,North,Retail,Credit Card,151,35953.22,5.0,
+12-25-2022,Electronics,East,Direct,Debit Card,171,28972.31,36.0,1.4
+07 Apr 2023,Food,East,,Bank Transfer,194,25721.9,21.0,3.2
+08 Aug 2023,Books,Central,Wholesale,Credit Card,271,27552.87,16.0,2.2
+01-25-2023,Books,North,Online,Credit Card,161,29667.57,42.0,3.4
+31/08/2022,Books,Central,Wholesale,Cash,241,27334.35,33.0,2.0
+06-14-2022,BOOKS,Central,Retail,PayPal,481,106369.73,44.0,2.2
+08/10/2023,Electronics,North,Wholesale,PayPal,380,23568.99,28.0,2.9
+08 Jun 2023,Electronics,Central,,PayPal,,51980.13,21.0,4.9
+19/03/2022,Food,East,Online,PayPal,420,69312.51,32.0,3.3
+12/12/2023,Books,South,Direct,Cash,113,12753.25,,4.6
+08-06-2022,Books,South,Online,Credit Card,478,81396.87,38.0,3.0
+2023-06-04,Furniture,West,Wholesale,Credit Card,92 units,11762.51,21.0,1.6
+12-03-2023,Clothing,South,Retail,Bank Transfer,476,39596.71,46.0,3.2
+06/07/2023,CLOTHING,West,Direct,Bank Transfer,130,33032.54,26.0,4.4
+2022-02-09,Sports,,Retail,Cash,170,19252.08,20.0,1.4
+16 Jul 2023,,South,Retail,Credit Card,497,41481.13,3.0,2.5
+26 Apr 2023,Sports,Central,Retail,Debit Card,,22069.39,25.0,4.1
+02-22-2023,Electronics,Central,Direct,PayPal,220,59302.14,16.0,3.5
+05/01/2023,Electronics,East,Online,Bank Transfer,120,11468.52,36.0,2.6
+22 Aug 2023,,,Retail,PayPal,244,54198.49,46.0,4.4
+21 Feb 2023,Clothing,central,Online,Debit Card,,92408.05,43.0,1.8
+10 Mar 2023,,Central,Retail,Debit Card,327,63809.47,39.0,3.8
+2022-04-16,Sports,Central,Direct,PayPal,420,70766.84,11.0,
+2023-05-13,Sports,North,Wholesale,Cash,,54054.07,26.0,4.5
+02-04-2023,Sports,West,Online,Credit Card,,5324.96,21.0,1.7
+13/04/2023,Furniture,Central,Wholesale,Bank Transfer,9670,94793.88,0.0,3.4
+08-04-2023,Clothing,North,Online,Bank Transfer,446,70637.56,25.0,3.9
+04-10-2022,Books,North,Online,Cash,131,7454.45,4.0,4.5
+01/10/2022,Food,North,Retail,Credit Card,46,,38.0,1.4
+01 Nov 2022,Electronics,West,Retail,Credit Card,310,87861.12,,1.0
+2022-10-24,Furniture,West,Wholesale,Credit Card,444,,35.0,1.9
+17/11/2023,Electronics,South,Direct,Bank Transfer,,53679.31,13.0,3.5
+07 Dec 2022,Furniture,South,Wholesale,Bank Transfer,388,91274.46,23.0,3.0
+11-20-2023,Food,south,Direct,PayPal,438 units,105971.86,38.0,3.6
+29/09/2023,,North,Direct,,97,15989.16,10.0,2.0
+22/08/2022,Electronics,south,Wholesale,Debit Card,29,2050.96,20.0,
+2022-09-28,Clothing,West,Retail,Cash,169,29059.96,8.0,3.8
+06/04/2022,Sports,West,Retail,Debit Card,21,2606.68,9.0,4.8
+29/07/2023,Food,,Online,PayPal,122,13914.31,37.0,3.4
+03 Oct 2023,Food,North,Online,Cash,158,44751.05,,3.1
+04-25-2022,Food,East,Retail,PayPal,35,5815.9,25.0,4.0
+2023-05-04,Clothing,North,Retail,Bank Transfer,,65085.28,41.0,2.0
+13/01/2023,Electronics,Central,Retail,,464,95213.46,34.0,1.1
+2022-02-21,,,Wholesale,Credit Card,188,549925,48.0,4.1
+06 Oct 2022,,South,Wholesale,Bank Transfer,22,2227.93,,4.1
+2022-01-08,Food,North,Direct,Debit Card,,31321.37,37.0,2.4
+01-03-2022,Sports,West,Wholesale,Cash,471,87109.22,,4.1
+2023-02-08,,North,,Cash,324,67988.27,6.0,1.7
+31 Jul 2022,Sports,East,Retail,Bank Transfer,485,56826.54,37.0,3.9
+2022-02-28,Clothing,West,Wholesale,Debit Card,63,9099.23,22.0,1.6
+13/09/2023,Sports,South,Online,Debit Card,366,40658.31,25.0,4.3
+02 May 2022,Food,West,Online,Debit Card,384,77525.3,22.0,2.7
+21 Dec 2023,Food,South,Wholesale,Credit Card,384,114936.53,38.0,3.5
+15/09/2022,Food,East,Online,PayPal,233,51677.39,11.0,3.5
+2023-08-16,Sports,East,Wholesale,PayPal,419,26552.58,44.0,
+06 Sep 2022,Furniture,West,Direct,Debit Card,456,54031.57,42.0,3.8
+2022-04-07,Clothing,Central,Online,Credit Card,215,31027.68,,3.3
+2023-07-04,Books,West,Wholesale,Cash,258,,3.0,1.7
+08 Jan 2023,Electronics,Central,Online,PayPal,44,6426.22,0.0,4.5
+2023-12-23,Books,Central,Retail,Credit Card,386,102329.05,30.0,4.3
+29/03/2023,Food,West,Wholesale,Credit Card,233,,34.0,1.9
+09 Oct 2022,,West,Retail,Credit Card,387,107698.79,36.0,3.9
+2023-05-16,Books,Central,,PayPal,431,58864.29,,
+08/06/2022,Clothing,Central,Wholesale,Bank Transfer,9,2401.01,,0
+2023-10-17,Sports,South,Wholesale,Credit Card,103,,26.0,4.5
+13 Jan 2022,Books,North,Retail,,199,53447.3,16.0,4.7
+06-26-2023,Food,North,Retail,Debit Card,89,14143.72,41.0,3.6
+23 Sep 2023,Sports,East,Direct,PayPal,338,46273.82,8.0,1.2
+2022-04-25,Clothing,South,Retail,Cash,283,76435.47,0.0,1.0
+12 Jun 2022,Clothing,North,Online,PayPal,442,23610.75,25.0,5.0
+2023-04-30,Furniture,,Direct,PayPal,124,30036.45,48.0,3.8
+22/07/2023,Clothing,West,Online,PayPal,231,21349.01,22.0,4.3
+14/06/2023,Furniture,East,Online,Bank Transfer,252,36369.02,36.0,
+04-10-2023,Food,West,,Bank Transfer,460,,,3.3
+2022-01-27,,North,Direct,Credit Card,365,66597.9,,1.8
+06 Nov 2023,Sports,Central,Direct,Bank Transfer,252,15054.68,24.0,2.4
+27/12/2023,Books,East,Direct,Bank Transfer,,106152.42,5.0,
+06-16-2022,Electronics,North,Online,PayPal,314,80687.72,,1.4
+08/08/2022,SPORTS,,Wholesale,Cash,304,,26.0,1.3
+27/11/2022,Sports,,Direct,Cash,267,769701,16.0,4.9
+30/05/2023,Furniture,West,Wholesale,Cash,5486,51711.87,29.0,4.8
